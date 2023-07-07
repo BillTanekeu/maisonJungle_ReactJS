@@ -1,0 +1,12 @@
+.Cart{
+
+    color: #fff;
+    background-color: rgb(18, 82, 82);;
+    padding: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 300px;
+    border-radius: 0px 40px 20px 20px;
+    
+}

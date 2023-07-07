@@ -1,0 +1,14 @@
+.Banner{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    border-bottom: solid 5px black;
+    justify-content:flex-end;    
+}
+.imgLogo{
+    padding: 20px;
+}
+
+.Title{
+    margin-right: 6%;
+}

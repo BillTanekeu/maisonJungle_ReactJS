@@ -1,0 +1,23 @@
+.listPlant{
+    list-style-type: none;
+	padding: 32px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.contentItemButton{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.ButtonAdd{
+    position: relative;
+    width: 80px;
+    height: 22px;
+    border-radius: 2px 9px;
+    left: 10px;
+    background-color: rgb(177, 173, 173)
+    
+}
